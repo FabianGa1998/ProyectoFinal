@@ -1,7 +1,7 @@
 import os
 from kaggle.api.kaggle_api_extended import KaggleApi
 
-location = "C:/Users/FABIAN/Documents/DevOps/proyecto_parcial/python/dataset"
+location = "C:/Users/FABIAN/Source/Repositorio/python/dataset"
 
 ###Validar que la carpeta exista###
 if not os.path.exists(location):
